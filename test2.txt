@@ -1,5 +1,5 @@
 this a file to test git 
 
 
-adding to the file 
+adding to the file to commit sate 
 
