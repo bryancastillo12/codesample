@@ -1,4 +1,4 @@
 this is a text file 
 
 adding to file 
- lets now add changes to the local repository and them add them to the master server on git.hub
+ lets now add changes to the local repository and then add them to the master server on git.hub
